@@ -2,9 +2,17 @@
 
 A stripped-down, high-performance Magento 2 installation optimized for speed and essential e-commerce functionality. This project removes bloated modules and third-party tools to deliver a lightweight, blazing-fast open-source e-commerce platform.
 
-## Overview
+I managed to install and use this Magento on a shared hosting plan for €5/month.
 
-**Minimal Magento 2** is a curated Magento 2 distribution that retains only the core e-commerce features you need while eliminating unnecessary modules and external commercial integrations. The result is a significantly faster, leaner platform perfect for merchants who want maximum performance with minimal overhead.
+**What you will not have:**
+
+- ElasticSearch / OpenSearch
+- MSI
+- GraphQL
+- RabbitMQ
+- Page Builder
+- 2FA
+- Google, PayPal, Adobe, Fedex, DHL, UPS, Vertex, AWS, Klarna, Dotmailer, Amazon, New Relic...
 
 ## Current Version
 

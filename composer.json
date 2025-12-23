@@ -19,9 +19,10 @@
     "version": "2.4.8-p3",
     "require": {
         "magentix/magento-csp": "^100.0",
-        "magento/product-community-edition": "2.4.8-p3",
         "magento/composer-dependency-version-audit-plugin": "~0.1",
-        "magento/composer-root-update-plugin": "^2.0.4"
+        "magento/composer-root-update-plugin": "^2.0.4",
+        "magento/product-community-edition": "2.4.8-p3",
+        "swissup/module-search-mysql-legacy": "^1.1"
     },
     "autoload": {
         "exclude-from-classmap": [
@@ -411,6 +412,7 @@
         "paypal/module-braintree": "*",
         "paypal/module-braintree-core": "*",
         "paypal/module-braintree-graph-ql": "*",
+        "swissup/module-core": "*",
         "temando/module-shipping": "*",
         "temando/module-shipping-m2": "*",
         "temando/module-shipping-remover": "*",
