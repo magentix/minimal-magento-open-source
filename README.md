@@ -22,7 +22,7 @@ git clone https://github.com/magentix/minimal-magento-open-source.git magento
 cd magento
 ```
 
-### Remove repository dependence
+### Eliminate the repository dependency
 
 ```bash
 rm -rf .git
