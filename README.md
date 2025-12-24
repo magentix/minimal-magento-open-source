@@ -11,7 +11,8 @@ I managed to install and use this Magento on a shared hosting plan for €5/mont
 - GraphQL
 - RabbitMQ
 - Page Builder
-- 2FA
+- Admin Two-Factor Authentication
+- Content Security Policy
 - Google, PayPal, Adobe, Fedex, DHL, UPS, Vertex, AWS, Klarna, Dotmailer, Amazon, New Relic...
 
 ## Current Version
